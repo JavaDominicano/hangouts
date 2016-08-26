@@ -1,5 +1,3 @@
-# hangouts
-
 # Java  Dominicano Hangouts
 
 ## Realizado
