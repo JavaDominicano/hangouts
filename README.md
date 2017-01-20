@@ -13,6 +13,7 @@
 * Java Generics: Explicando el Misterio por [Pedro Gonzalez](https://www.linkedin.com/in/pedro-gonzalez-7bb41516/es) y [Eudris Cabrera](https://github.com/ecabrerar) - TBA
 * Java 8: Expresiones Lambdas y API Stream en la Práctica por [Eudris Cabrera](https://github.com/ecabrerar) - TBA
 * SpringBoot: La Navaja Suiza del desarrollo por [Carlos Camacho](https://github.com/vacax) - TBA
+* Uso eficaz del Entorno de Desarrollo Integrado (IDE) : Consejos Prácticos
 * MongoDB para Desarrolladores Java 
 * Primeros Pasos con Gradle 
 * Java 9 - First Cup
