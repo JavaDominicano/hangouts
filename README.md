@@ -7,9 +7,9 @@
 
 
 ## Agendado
-
-* Java Generics: Explicando el Misterio por [Pedro Gonzalez](https://www.linkedin.com/in/pedro-gonzalez-7bb41516/es) y [Eudris Cabrera](https://github.com/ecabrerar) - 6 Febrero 2017
-* Java 8: Expresiones Lambdas y API Stream en la Práctica por [Eudris Cabrera](https://github.com/ecabrerar) - 9 Febrero 2017
+* Java en el 2017: Debate sobre las próximas versiones: Java SE 9 y Java EE 8 por Java Dominicano - 6 Febrero 2017
+* Java Generics: Explicando el Misterio por [Pedro Gonzalez](https://www.linkedin.com/in/pedro-gonzalez-7bb41516/es) y [Eudris Cabrera](https://github.com/ecabrerar) - 9 Febrero 2017
+* Java 8: Expresiones Lambdas y API Stream en la Práctica por [Eudris Cabrera](https://github.com/ecabrerar) - 13 Febrero 2017
 * Micro Framework Java por [Carlos Camacho](https://github.com/vacax) - TBA
 * Consumiendo Servicios REST en Java por [Eudris Cabrera](https://github.com/ecabrerar) - TBA
 * SpringBoot: La Navaja Suiza del desarrollo por [Carlos Camacho](https://github.com/vacax) - TBA
