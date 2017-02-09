@@ -5,9 +5,9 @@
   * [Youtube](https://youtu.be/mNwUMLwq4TQ?list=PLh4k7EswYO0QpqYLy47T0E3v_OVCR9dv2) 
   * [Descargar Aquí](slides/EcosistemaJava.pdf)
 
+* Java en el 2017: Debate sobre las próximas versiones: Java SE 9 y Java EE 8 por Java Dominicano - 8 Febrero 2017
 
 ## Agendado
-* Java en el 2017: Debate sobre las próximas versiones: Java SE 9 y Java EE 8 por Java Dominicano - 6 Febrero 2017
 * Java Generics: Explicando el Misterio por [Pedro Gonzalez](https://www.linkedin.com/in/pedro-gonzalez-7bb41516/es) y [Eudris Cabrera](https://github.com/ecabrerar) - TBA
 * Java 8: Expresiones Lambdas y API Stream en la Práctica por [Eudris Cabrera](https://github.com/ecabrerar) - TBA
 * Micro Framework Java por [Carlos Camacho](https://github.com/vacax) - TBA
